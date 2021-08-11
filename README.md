@@ -3,7 +3,7 @@
 ## TEAM: AI ML 07
 ## Team Members: 
 
-### -Sneha Sable
+• -Sneha Sable
 ### -Shravani Dhuri
 ### -Shrumi Dedhia
 ### -Vikram Rao
